@@ -1,0 +1,16 @@
+ID: 20127417
+Full Name: Phạm Thảo Vy
+
+[THẦY CHẤM SOURCE CODE CỦA EM TRONG FILE .CPP NHA THẦY. EM CẢM ƠN THẦY]
+
+- A list of all the functions that you have finished
+	
+	- [ ]  View  all categories, then list all products of a chosen category
+	- [ ]  Find all products that contain a keyword entered from keyboard, display the result.
+    	- [ ]  Find all products whose price is in the range of [a, b] with a and b entered from the keyboard in natural format with thousand separators (For example 1.000.000). Display the result.
+	- [ ]  Please create a menu that lets the user choose what to do with the program.
+
+- List of all the functions / requirements that you have not finished : null
+- List all the things that you have done that the instructor should consider for a bonus: null
+
+- Your expected grade: 10
